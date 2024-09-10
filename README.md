@@ -1,6 +1,4 @@
-# Arpspoof-detector
- This is a project to detect spoofing attacks on a network. <br><br>
-
- ## Usage
+ # Usage
  `git clone https://github.com/Bugyei-Thomas/arpspoof-detector` <br>
+ `sudo pip3 install -r requirements.txt`<br>
  `python3 spoofdetector.py`
